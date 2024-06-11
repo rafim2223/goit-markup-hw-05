@@ -654,10 +654,10 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffff;
-  display: flex;
+  
 }
 .form-footer {
-  display: flex;
+ display: flex;
 }
 .input-form {
   width: 264px;
