@@ -689,3 +689,6 @@ img {
   border: none;
   border-radius: 4px;
 }
+.form-paragraph { 
+  margin-bottom: 16px;
+}
