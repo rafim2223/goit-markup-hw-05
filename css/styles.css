@@ -689,7 +689,12 @@ img {
   background-color: #4D5AE5;
   border: none;
   border-radius: 4px;
+  font-family: "Roboto", sans-serif;
+  display:flex
 }
 .form-paragraph { 
   margin-bottom: 16px;
+}
+.icon-send {
+  margin-left: 16px;
 }
