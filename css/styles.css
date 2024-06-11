@@ -659,6 +659,7 @@ img {
 }
 .form-footer {
  display: flex;
+ gap: 24px;
 }
 .input-form {
   width: 264px;
