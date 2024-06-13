@@ -908,8 +908,8 @@ fill:#F4F4FD;
 .div-modal-input:focus-within {
   fill: #4d5ae5;
 }
-.input-checkbox:checked {
+.input-checkbox:checked + .label-checkbox {
   background-color: #404bbf;
-  border:none;
-  fill:#F4F4FD;
+  border: none;
+  fill: #F4F4FD;
 }
