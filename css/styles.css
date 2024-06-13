@@ -769,6 +769,8 @@ transition:fill #ffffff;
 .div-modal-first {
   margin-bottom: 8px;
   position: relative;
+  align-items: center;
+  justify-content: center;
 
 }
 .label-modal-first {
