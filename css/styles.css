@@ -796,6 +796,7 @@ transition:fill #ffffff;
 }
 .input-modal-label:focus {
   border-color: #4D5AE5;
+  fill:#4D5AE5;
 }
 .svg-form-name {
   top:50%;
