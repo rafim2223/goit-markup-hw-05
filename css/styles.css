@@ -897,4 +897,6 @@ fill:#F4F4FD;
   position: relative;
   top: 50%;
 }
-
+.div-modal-imput:focus-within {
+  fill: #4d5ae5;
+}
